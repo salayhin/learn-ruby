@@ -2,6 +2,7 @@
 
 - You simply call the methods method on them.
 `1.methods`
+
 > output:
 
 ```
@@ -15,3 +16,11 @@
  `['rock','paper','scissors'].index('paper')`
  > Output:
  `1`
+
+ - The between? method to determine if the number 2 lies between the numbers 1 and 3.
+
+ `2.between? 1,3`
+
+ > Output:
+
+ `true`
