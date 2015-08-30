@@ -1,7 +1,9 @@
 ## Introduction to Strings
 
 - `'RubyMonk'.length`
+
 > Output:
+
 `8`
 
 ## String Basics
